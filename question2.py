@@ -1,3 +1,5 @@
+# Delete Objects older than 30 days from s3
+
 import boto3
 from datetime import datetime, timedelta
 
